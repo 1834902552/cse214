@@ -1,9 +1,9 @@
 
 ## Variable Decleration
-
-*int N;
-*int p = 0, memory = 10;
-
+```c
+int N;
+int p = 0, memory = 10;
+```c
 ## Array Decleration or Initialization
 
 *int array[10] = {1, 2, 3, 4, 5, 6, 7,8, 9, 10};
