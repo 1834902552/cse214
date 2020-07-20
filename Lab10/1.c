@@ -232,4 +232,14 @@ void search()
             {  
                 flag=1;  
             }  
-            i
+            i++;  
+            ptr = ptr -> next;  
+        }  
+        }  
+        if(flag != 0)  
+        {  
+            printf("Item not found\n"); 
+        }  
+    }     
+          
+}
